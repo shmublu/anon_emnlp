@@ -1,5 +1,0 @@
-Ages, names, states
-
-109, 110, 111, 112
-Ernesto, Larry, Olivia, Preston
-Alaska, Missouri, Texas, Virginia

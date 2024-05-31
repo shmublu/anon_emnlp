@@ -1,5 +1,0 @@
-109, Preston, Virginia
-110, Olivia, Alaska
-111, Ernesto, Texas
-112, Larry, Missouri
-

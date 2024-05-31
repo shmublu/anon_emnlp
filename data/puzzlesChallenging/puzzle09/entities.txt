@@ -1,5 +1,0 @@
-employees, section, riders
-
-Brett, Guy, Isaac, Jeremy
-blue, pink, purple, yellow
-50 riders, 75 riders, 100 riders, 125 riders

@@ -1,5 +1,0 @@
-first, Kermit, #118
-second, Ophelia, #128
-third, Stretch, #126
-fourth, Bridget, #105
-

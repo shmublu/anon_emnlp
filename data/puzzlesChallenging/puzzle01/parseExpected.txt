@@ -1,4 +1,0 @@
-more(Oliver, Irene, 1)
-more(root beer, Irene, 1)
-more(Salvador, iced tea, 1)
-less(Oliver, orange soda)

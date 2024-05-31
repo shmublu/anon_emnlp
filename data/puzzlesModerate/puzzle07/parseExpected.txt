@@ -1,5 +1,0 @@
-is(25 ft, xor(sei whale, Brent))
-is(sei whale, Herbert)
-is(fin whale, 25 ft)
-longer(sei whale, beluga whale, 2)
-is(xor(25 ft, right whale), xor(Adam, Brent))

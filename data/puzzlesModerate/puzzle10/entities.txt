@@ -1,5 +1,0 @@
-interpreters, students, times
-
-Earnest, Frederick, Ira, Joann
-Karla, Nelson, Patrick, Tyler
-9:00am, 10:00am, 11:00am, 12:00pm
