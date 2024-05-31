@@ -1,0 +1,3 @@
+Food: corn, lemon, pepper
+Hobby: camping, drawing, hiking
+Job: coach, scientist, social-worker

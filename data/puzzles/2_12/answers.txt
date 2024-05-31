@@ -1,0 +1,4 @@
+|             |    1    |      2      |        3        |
+| Hobby       | reading | woodworking | cooking         |
+| Job         | pilot   | chef        | project-manager |
+| Transport   | trike   | motorbike   | bike            |

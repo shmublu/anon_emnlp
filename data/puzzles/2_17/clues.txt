@@ -1,0 +1,7 @@
+1. Pet:guinea-pig and Beverage:coffee have the same parity positions
+2. Nationality:argentine and Pet:hamster have the same parity positions
+3. Pet:lizard is in an odd position
+4. Beverage:lemonade is not to the right of Beverage:coffee
+5. Pet:hamster is not to the left of Nationality:chinese
+6. Nationality:colombian == Beverage:7up or Beverage:7up == Pet:lizard or both
+7. Nationality:argentine is on the left or right of Beverage:7up

@@ -1,0 +1,5 @@
+1. Food:potato is on the left or right of Food:pepper
+2. Food:corn is not to the left of Food:pepper
+3. Food:pepper != Music-Genre:blues
+4. Food:pepper != Music-Genre:indie
+5. Food:potato and Music-Genre:indie have different parity positions

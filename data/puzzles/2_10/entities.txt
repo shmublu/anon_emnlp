@@ -1,0 +1,3 @@
+Hobby: hiking, woodworking, writing
+Nationality: american, colombian, egyptian
+Sport: badminton, handball, skiing

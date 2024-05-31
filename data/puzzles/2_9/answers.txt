@@ -1,0 +1,4 @@
+|               |    1    |   2    |     3     |
+| Beverage      | cola    | tea    | coffee    |
+| Hobby         | drawing | hiking | skydiving |
+| Music-Genre   | jazz    | techno | r&b       |

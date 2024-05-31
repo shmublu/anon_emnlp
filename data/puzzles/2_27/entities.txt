@@ -1,0 +1,3 @@
+Food: apricot, cranberry, lettuce
+Job: dressmaker, firefighter, writer
+Sport: cricket, tennis, weightlifting

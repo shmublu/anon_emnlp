@@ -1,0 +1,8 @@
+1. Movie-Genre:western is somewhere to the left of Movie-Genre:musical
+2. Movie-Genre:musical is not to the right of Job:coach
+3. Job:coach is not to the left of Food:pineapple
+4. Job:coach and Food:onion have different parity positions
+5. Job:lawyer == Movie-Genre:musical or Job:lawyer == Food:pineapple or both
+6. Job:lawyer != Food:pineapple or Food:pineapple != Movie-Genre:western or both
+7. Movie-Genre:time-travel is not to the left of Job:coach
+8. Food:cucumber is not to the left of Food:onion

@@ -1,0 +1,8 @@
+1. Music-Genre:r&b is somewhere to the left of Food:onion
+2. Hobby:card-games and Food:lettuce have the same parity positions
+3. Food:onion and Hobby:dancing have the same parity positions
+4. Hobby:cooking != Music-Genre:r&b
+5. Hobby:card-games and Food:onion have different parity positions
+6. Food:cauliflower is somewhere to the left of Hobby:dancing
+7. Hobby:dancing is not to the left of Food:lettuce
+8. Food:cauliflower != Hobby:cooking or Food:cauliflower != Music-Genre:hip-hop or both

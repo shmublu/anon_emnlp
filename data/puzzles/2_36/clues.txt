@@ -1,0 +1,6 @@
+1. Transport:skateboard == Hobby:filmmaking or Pet:horse == Transport:skateboard, but not both
+2. Transport:skateboard is not to the right of Transport:airplane
+3. Transport:airplane is somewhere between Transport:skateboard and Transport:motorbike
+4. Pet:horse and Hobby:fishing have different parity positions
+5. Pet:fish is not to the left of Transport:airplane
+6. Hobby:baking is not to the left of Hobby:fishing

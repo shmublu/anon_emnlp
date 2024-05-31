@@ -1,0 +1,8 @@
+1. Sport:tennis is not to the left of Sport:weightlifting
+2. Job:dressmaker is not to the left of Job:writer
+3. Sport:tennis and Food:apricot have different parity positions
+4. Food:lettuce == Job:firefighter or Sport:weightlifting == Food:lettuce, but not both
+5. Sport:tennis is somewhere to the right of Food:apricot
+6. Food:lettuce is not to the left of Sport:weightlifting
+7. Job:firefighter and Sport:tennis have the same parity positions
+8. Food:apricot and Job:writer have the same parity positions

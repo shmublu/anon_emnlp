@@ -1,0 +1,9 @@
+1. Music-Genre:techno is not to the left of Transport:skateboard
+2. Transport:bike != Music-Genre:techno
+3. Music-Genre:techno == Transport:skateboard or Transport:skateboard == Pet:goldfish, but not both
+4. Pet:goldfish is not to the left of Transport:skateboard
+5. Music-Genre:techno != Transport:skateboard or Music-Genre:techno != Pet:pony or both
+6. Pet:rat is in an odd position
+7. Transport:bus is somewhere to the left of Transport:bike
+8. Transport:bus is not to the right of Pet:rat
+9. Music-Genre:reggae is somewhere to the left of Music-Genre:dubstep

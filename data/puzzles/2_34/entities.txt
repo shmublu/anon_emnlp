@@ -1,0 +1,3 @@
+Beverage: 7up, milk, water
+Nationality: brazilian, italian, thai
+Sport: badminton, biathlon, skateboarding

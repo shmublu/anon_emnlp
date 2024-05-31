@@ -1,0 +1,8 @@
+1. Nationality:mexican is not to the left of Music-Genre:pop
+2. Nationality:mexican is somewhere to the left of Nationality:argentine
+3. Hobby:reading and Nationality:argentine have different parity positions
+4. Hobby:camping != Music-Genre:punk or Hobby:camping != Nationality:argentine or both
+5. Hobby:reading and Nationality:german have the same parity positions
+6. Hobby:woodworking is somewhere to the left of Music-Genre:punk
+7. Hobby:camping is in an odd position
+8. Nationality:argentine and Hobby:camping have the same parity positions

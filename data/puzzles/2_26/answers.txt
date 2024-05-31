@@ -1,0 +1,4 @@
+|               |    1     |      2      |    3     |
+| Food          | cherry   | cauliflower | broccoli |
+| Nationality   | egyptian | indian      | british  |
+| Transport     | train    | quad-bike   | tram     |

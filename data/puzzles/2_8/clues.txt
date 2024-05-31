@@ -1,0 +1,7 @@
+1. Movie-Genre:mystery and Hobby:magic-tricks have the same parity positions
+2. Hobby:magic-tricks is somewhere to the right of Hobby:writing
+3. Food:pomegranate is not to the right of Movie-Genre:mystery
+4. Hobby:magic-tricks is on the left or right of Hobby:chess
+5. Food:pomegranate == Hobby:writing or Movie-Genre:romance == Food:pomegranate or both
+6. Movie-Genre:fantasy is on the right of Food:papaya
+7. Movie-Genre:romance is on the far left or far right

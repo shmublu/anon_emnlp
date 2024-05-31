@@ -1,0 +1,5 @@
+1. Food:cabbage is somewhere between Food:blueberry and Food:onion
+2. Hobby:filmmaking is not to the left of Hobby:puzzles
+3. Hobby:filmmaking and Food:cabbage have different parity positions
+4. Food:blueberry is not to the right of Food:cabbage
+5. Food:onion and Hobby:card-games have the same parity positions

@@ -1,0 +1,5 @@
+1. Beverage:iced-tea is somewhere to the right of Beverage:soy-milk
+2. Beverage:coffee and Food:strawberry have the same parity positions
+3. Food:artichoke is not to the left of Food:kiwi
+4. Beverage:soy-milk and Food:artichoke have different parity positions
+5. Beverage:soy-milk is not to the right of Beverage:coffee

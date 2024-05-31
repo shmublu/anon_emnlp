@@ -1,0 +1,5 @@
+1. Beverage:7up is not to the right of Beverage:water
+2. Sport:baseball and Beverage:7up have the same parity positions
+3. Beverage:water is somewhere to the left of Beverage:sprite
+4. Sport:parkour is not to the left of Sport:handball
+5. Sport:parkour is in an odd position

@@ -1,0 +1,5 @@
+1. Sport:handball is not to the left of Transport:trike
+2. Sport:handball is not to the left of Transport:roller
+3. Transport:trike is not to the right of Sport:skiing
+4. Sport:handball is somewhere between Sport:skiing and Sport:badminton
+5. Transport:roller and Sport:handball have different parity positions

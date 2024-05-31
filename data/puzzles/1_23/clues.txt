@@ -1,0 +1,5 @@
+1. Pet:cat is not to the left of Food:kiwi
+2. Food:grapes is not to the right of Pet:mouse
+3. Food:cucumber is somewhere between Food:kiwi and Food:grapes
+4. Pet:frog != Food:cucumber
+5. Pet:cat is not to the right of Pet:mouse

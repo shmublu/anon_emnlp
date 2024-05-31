@@ -1,0 +1,5 @@
+1. Food:garlic and Music-Genre:r&b have different parity positions
+2. Music-Genre:r&b is somewhere to the right of Music-Genre:salsa
+3. Food:mango and Music-Genre:salsa have different parity positions
+4. Music-Genre:salsa is in an odd position
+5. Food:pumpkin is not to the right of Food:mango

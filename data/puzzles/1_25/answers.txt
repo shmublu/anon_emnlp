@@ -1,0 +1,3 @@
+|         |     1      |    2    |     3      |
+| Food    | blueberry  | cabbage | onion      |
+| Hobby   | card-games | puzzles | filmmaking |

@@ -1,0 +1,7 @@
+1. Transport:taxi != Job:entrepreneur
+2. Movie-Genre:crime and Transport:helicopter have the same parity positions
+3. Job:lawyer is not to the right of Transport:taxi
+4. Transport:helicopter and Job:entrepreneur have different parity positions
+5. Movie-Genre:musical is somewhere between Movie-Genre:scientific and Movie-Genre:crime
+6. Movie-Genre:scientific is not to the left of Movie-Genre:crime
+7. Transport:taxi is not to the right of Transport:helicopter

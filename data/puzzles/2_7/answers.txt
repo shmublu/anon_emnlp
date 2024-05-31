@@ -1,0 +1,4 @@
+|               |    1    |    2     |       3       |
+| Nationality   | dutch   | polish   | chinese       |
+| Pet           | snake   | hedgehog | rabbit        |
+| Sport         | cricket | climbing | weightlifting |

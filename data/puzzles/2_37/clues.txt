@@ -1,0 +1,7 @@
+1. Food:lime != Sport:cricket or Job:manager != Food:lime or both
+2. Sport:swimming and Job:teacher have different parity positions
+3. Food:lime == Job:manager or Food:lime == Sport:swimming or both
+4. Sport:cricket and Food:avocado have the same parity positions
+5. Sport:swimming and Food:avocado have the same parity positions
+6. Food:avocado is not to the left of Food:blueberry
+7. Job:architect is not to the right of Sport:swimming

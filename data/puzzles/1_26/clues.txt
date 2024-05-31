@@ -1,0 +1,4 @@
+1. Sport:cricket is somewhere between Sport:snowboarding and Sport:swimming
+2. Sport:swimming is not to the left of Sport:snowboarding
+3. Sport:snowboarding and Job:entrepreneur have the same parity positions
+4. Sport:swimming is not to the right of Job:social-worker

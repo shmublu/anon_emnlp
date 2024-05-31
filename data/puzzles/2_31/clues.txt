@@ -1,0 +1,8 @@
+1. Transport:snowmobile and Nationality:turkish have the same parity positions
+2. Transport:airplane is not to the right of Nationality:british
+3. Transport:snowmobile and Pet:hamster have the same parity positions
+4. Pet:goldfish is not to the left of Nationality:turkish
+5. Pet:goldfish and Transport:subway have the same parity positions
+6. Nationality:british is not to the right of Transport:subway
+7. Nationality:british and Pet:hamster have the same parity positions
+8. Transport:snowmobile != Pet:goldfish

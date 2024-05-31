@@ -1,0 +1,5 @@
+1. Food:broccoli != Music-Genre:soul
+2. Food:cherry != Music-Genre:folk
+3. Music-Genre:folk != Food:broccoli
+4. Music-Genre:folk is somewhere between Music-Genre:soul and Music-Genre:trance
+5. Music-Genre:trance is not to the right of Food:cherry

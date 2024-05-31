@@ -1,0 +1,7 @@
+1. Beverage:water and Nationality:thai have the same parity positions
+2. Sport:biathlon != Beverage:water
+3. Nationality:thai is not to the left of Beverage:7up
+4. Beverage:water and Sport:badminton have the same parity positions
+5. Sport:biathlon and Nationality:brazilian have different parity positions
+6. Beverage:milk != Nationality:italian or Beverage:milk != Sport:biathlon or both
+7. Nationality:italian is not to the left of Nationality:thai

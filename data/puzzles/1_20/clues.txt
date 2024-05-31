@@ -1,0 +1,5 @@
+1. Nationality:colombian != Food:grapefruit
+2. Food:pepper is somewhere to the right of Food:banana
+3. Food:grapefruit is somewhere to the left of Food:pepper
+4. Nationality:colombian is somewhere to the right of Nationality:thai
+5. Nationality:polish is not to the left of Food:pepper

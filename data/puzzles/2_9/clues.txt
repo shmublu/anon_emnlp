@@ -1,0 +1,6 @@
+1. Beverage:tea is not to the left of Hobby:drawing
+2. Hobby:drawing and Music-Genre:r&b have the same parity positions
+3. Music-Genre:jazz is not to the right of Music-Genre:techno
+4. Beverage:coffee is somewhere to the right of Music-Genre:techno
+5. Music-Genre:techno and Beverage:cola have different parity positions
+6. Beverage:tea is on the left or right of Hobby:skydiving

@@ -1,0 +1,7 @@
+1. Nationality:thai is on the left or right of Music-Genre:rock
+2. Nationality:italian and Music-Genre:folk have different parity positions
+3. Beverage:lemonade is in an even position
+4. Music-Genre:folk is somewhere to the left of Music-Genre:ambient
+5. Beverage:cola is not to the left of Nationality:spanish
+6. Beverage:soy-milk and Nationality:italian have the same parity positions
+7. Nationality:thai is somewhere to the left of Nationality:spanish

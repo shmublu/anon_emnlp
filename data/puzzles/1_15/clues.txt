@@ -1,0 +1,6 @@
+1. Sport:basketball is not to the left of Pet:lizard
+2. Pet:turtle is in an odd position
+3. Pet:guinea-pig is in an odd position
+4. Sport:basketball != Pet:guinea-pig
+5. Pet:turtle is somewhere to the left of Pet:guinea-pig
+6. Sport:tennis is not to the right of Pet:lizard

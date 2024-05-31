@@ -1,0 +1,3 @@
+Job: dancer, musician, software-developer
+Music-Genre: classical, gospel, metal
+Transport: car, motorbike, skateboard

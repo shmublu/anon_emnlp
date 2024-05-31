@@ -1,0 +1,7 @@
+1. Music-Genre:electronic is somewhere to the right of Music-Genre:trance
+2. Hobby:skydiving and Music-Genre:salsa have the same parity positions
+3. Music-Genre:salsa != Beverage:coffee or Music-Genre:salsa != Hobby:skydiving or both
+4. Music-Genre:salsa is somewhere to the right of Music-Genre:electronic
+5. Beverage:fanta is somewhere to the left of Hobby:skydiving
+6. Beverage:fanta and Music-Genre:electronic have different parity positions
+7. Music-Genre:trance is not to the left of Hobby:magic-tricks

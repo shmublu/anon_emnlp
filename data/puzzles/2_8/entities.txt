@@ -1,0 +1,3 @@
+Food: onion, papaya, pomegranate
+Hobby: chess, magic-tricks, writing
+Movie-Genre: fantasy, mystery, romance

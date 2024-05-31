@@ -1,0 +1,4 @@
+|               |     1      |   2   |     3     |
+| Movie-Genre   | comedy     | spy   | adventure |
+| Pet           | pony       | snake | frog      |
+| Transport     | helicopter | bus   | boat      |

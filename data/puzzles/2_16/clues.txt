@@ -1,0 +1,7 @@
+1. Movie-Genre:superhero is somewhere to the right of Movie-Genre:time-travel
+2. Hobby:drawing and Movie-Genre:superhero have the same parity positions
+3. Movie-Genre:time-travel is on the left or right of Hobby:gardening
+4. Movie-Genre:time-travel != Pet:guinea-pig
+5. Movie-Genre:time-travel and Hobby:drawing have the same parity positions
+6. Hobby:traveling is somewhere to the left of Pet:turtle
+7. Movie-Genre:superhero and Pet:turtle have the same parity positions

@@ -1,0 +1,9 @@
+1. Food:corn and Movie-Genre:action have the same parity positions
+2. Food:tomato == Movie-Genre:action or Movie-Genre:action == Sport:golf or both
+3. Sport:snowboarding and Food:tomato have the same parity positions
+4. Movie-Genre:action is not to the left of Sport:golf
+5. Sport:golf is somewhere to the left of Sport:badminton
+6. Sport:badminton == Movie-Genre:adventure or Food:corn == Sport:badminton or both
+7. Movie-Genre:time-travel != Food:pepper
+8. Movie-Genre:adventure and Food:pepper have the same parity positions
+9. Sport:badminton != Food:pepper

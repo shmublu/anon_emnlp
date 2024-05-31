@@ -1,0 +1,5 @@
+1. Hobby:gardening is in an odd position
+2. Hobby:sudoku is on the left or right of Sport:surfing
+3. Hobby:collecting is not to the left of Sport:parkour
+4. Sport:surfing is not to the left of Hobby:sudoku
+5. Hobby:sudoku is on the far left or far right

@@ -1,0 +1,5 @@
+1. Sport:water-polo is not to the right of Hobby:filmmaking
+2. Sport:water-polo and Hobby:puzzles have different parity positions
+3. Hobby:puzzles is on the left or right of Hobby:video-games
+4. Sport:parkour is somewhere to the left of Hobby:video-games
+5. Sport:water-polo is not to the left of Hobby:filmmaking

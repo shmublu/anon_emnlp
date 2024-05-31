@@ -1,0 +1,7 @@
+1. Food:corn is somewhere between Food:pepper and Food:lemon
+2. Job:social-worker == Hobby:hiking or Job:social-worker == Food:corn, but not both
+3. Food:corn is not to the left of Hobby:camping
+4. Hobby:hiking is not to the left of Job:coach
+5. Job:scientist is not to the right of Food:lemon
+6. Job:social-worker is not to the left of Hobby:hiking
+7. Job:social-worker and Hobby:hiking have different parity positions

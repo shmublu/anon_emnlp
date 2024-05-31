@@ -1,0 +1,8 @@
+1. Nationality:pakistani and Pet:hedgehog have different parity positions
+2. Nationality:chinese is on the left or right of Job:mechanic
+3. Pet:rat is on the right of Pet:hedgehog
+4. Job:pilot != Nationality:pakistani
+5. Job:coach is not to the right of Pet:rat
+6. Job:mechanic is not to the right of Job:coach
+7. Nationality:nigerian is somewhere to the left of Pet:rat
+8. Job:mechanic and Nationality:pakistani have the same parity positions

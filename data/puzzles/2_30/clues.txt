@@ -1,0 +1,9 @@
+1. Food:cucumber and Transport:airplane have the same parity positions
+2. Hobby:sudoku and Food:kale have different parity positions
+3. Hobby:collecting is not to the right of Food:cucumber
+4. Food:cucumber != Hobby:camping
+5. Hobby:collecting != Transport:motorbike
+6. Hobby:camping is somewhere to the right of Hobby:sudoku
+7. Hobby:sudoku == Food:potato or Transport:tram == Hobby:sudoku, but not both
+8. Transport:airplane != Hobby:camping
+9. Food:cucumber is not to the right of Transport:motorbike

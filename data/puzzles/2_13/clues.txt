@@ -1,0 +1,7 @@
+1. Beverage:mirinda is not to the left of Nationality:turkish
+2. Beverage:milk and Nationality:australian have different parity positions
+3. Nationality:brazilian is not to the left of Sport:parkour
+4. Beverage:fanta is somewhere to the left of Sport:handball
+5. Nationality:turkish == Beverage:fanta or Sport:handball == Nationality:turkish, but not both
+6. Nationality:turkish and Beverage:mirinda have the same parity positions
+7. Beverage:mirinda is on the left or right of Beverage:fanta

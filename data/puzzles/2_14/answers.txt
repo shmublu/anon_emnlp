@@ -1,0 +1,4 @@
+|               |    1     |    2     |    3    |
+| Beverage      | soy-milk | lemonade | cola    |
+| Music-Genre   | rock     | folk     | ambient |
+| Nationality   | italian  | thai     | spanish |

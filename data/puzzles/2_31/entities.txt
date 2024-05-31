@@ -1,0 +1,3 @@
+Nationality: british, russian, turkish
+Pet: goldfish, hamster, pony
+Transport: airplane, snowmobile, subway

@@ -1,0 +1,9 @@
+1. Hobby:photography is not to the right of Transport:bus
+2. Transport:ship != Beverage:almond-milk
+3. Hobby:photography and Beverage:tea have the same parity positions
+4. Hobby:collecting and Transport:bus have the same parity positions
+5. Transport:bus is not to the left of Transport:van
+6. Beverage:tea and Transport:ship have the same parity positions
+7. Hobby:video-games is in an odd position
+8. Transport:bus is not to the left of Beverage:tea
+9. Transport:ship is in an odd position

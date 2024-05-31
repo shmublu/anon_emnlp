@@ -1,0 +1,4 @@
+|               |    1     |      2      |     3     |
+| Hobby         | hiking   | woodworking | writing   |
+| Nationality   | egyptian | american    | colombian |
+| Sport         | handball | skiing      | badminton |

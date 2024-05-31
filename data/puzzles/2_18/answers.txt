@@ -1,0 +1,4 @@
+|               |      1      |    2    |     3     |
+| Hobby         | woodworking | reading | camping   |
+| Music-Genre   | pop         | punk    | r&b       |
+| Nationality   | mexican     | german  | argentine |

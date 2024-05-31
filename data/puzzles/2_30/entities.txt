@@ -1,0 +1,3 @@
+Food: cucumber, kale, potato
+Hobby: camping, collecting, sudoku
+Transport: airplane, motorbike, tram

@@ -1,0 +1,7 @@
+1. Job:chef is somewhere to the left of Job:project-manager
+2. Transport:trike and Job:pilot have the same parity positions
+3. Job:pilot is on the left or right of Hobby:woodworking
+4. Transport:bike is on the right of Transport:motorbike
+5. Job:chef != Hobby:reading
+6. Transport:motorbike is not to the left of Hobby:reading
+7. Transport:trike is on the left of Transport:motorbike

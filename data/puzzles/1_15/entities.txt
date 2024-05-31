@@ -1,0 +1,2 @@
+Pet: guinea-pig, lizard, turtle
+Sport: basketball, swimming, tennis

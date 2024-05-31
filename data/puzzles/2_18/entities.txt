@@ -1,0 +1,3 @@
+Hobby: camping, reading, woodworking
+Music-Genre: pop, punk, r&b
+Nationality: argentine, german, mexican

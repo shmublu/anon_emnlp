@@ -1,0 +1,6 @@
+1. Beverage:sprite is somewhere to the left of Beverage:hot-chocolate
+2. Movie-Genre:fantasy != Beverage:sprite
+3. Movie-Genre:epic != Beverage:7up
+4. Movie-Genre:fantasy is somewhere to the left of Movie-Genre:epic
+5. Movie-Genre:epic and Beverage:sprite have the same parity positions
+6. Beverage:hot-chocolate != Movie-Genre:thriller

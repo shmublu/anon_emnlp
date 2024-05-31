@@ -1,0 +1,5 @@
+1. Food:artichoke != Pet:goldfish
+2. Pet:guinea-pig is on the left or right of Pet:cat
+3. Food:artichoke is not to the left of Food:corn
+4. Pet:guinea-pig is not to the right of Food:corn
+5. Food:corn is on the left or right of Food:grapefruit

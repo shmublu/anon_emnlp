@@ -1,0 +1,5 @@
+1. Sport:ice-hockey is on the far left or far right
+2. Sport:lacrosse is somewhere to the left of Sport:ice-hockey
+3. Hobby:filmmaking is not to the left of Hobby:cooking
+4. Sport:ice-hockey and Hobby:cooking have different parity positions
+5. Sport:baseball and Hobby:hiking have different parity positions

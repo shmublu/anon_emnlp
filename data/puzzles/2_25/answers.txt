@@ -1,0 +1,4 @@
+|               |      1       |     2      |       3       |
+| Beverage      | fanta        | coffee     | hot-chocolate |
+| Hobby         | magic-tricks | camping    | skydiving     |
+| Music-Genre   | trance       | electronic | salsa         |

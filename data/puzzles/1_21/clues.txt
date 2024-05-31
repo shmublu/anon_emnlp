@@ -1,0 +1,4 @@
+1. Transport:airplane and Movie-Genre:superhero have different parity positions
+2. Transport:helicopter is not to the left of Movie-Genre:superhero
+3. Movie-Genre:epic is somewhere to the right of Movie-Genre:zombie
+4. Movie-Genre:superhero is somewhere to the right of Movie-Genre:epic

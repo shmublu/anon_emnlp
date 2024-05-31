@@ -1,0 +1,3 @@
+Beverage: coffee, juice, soy-milk
+Job: analyst, lawyer, manager
+Transport: car, helicopter, van

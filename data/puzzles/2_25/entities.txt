@@ -1,0 +1,3 @@
+Beverage: coffee, fanta, hot-chocolate
+Hobby: camping, magic-tricks, skydiving
+Music-Genre: electronic, salsa, trance

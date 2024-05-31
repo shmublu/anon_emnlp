@@ -1,0 +1,8 @@
+1. Food:cauliflower is not to the right of Transport:tram
+2. Nationality:indian is somewhere to the left of Nationality:british
+3. Transport:tram and Nationality:british have the same parity positions
+4. Transport:quad-bike and Nationality:british have different parity positions
+5. Food:cherry is not to the right of Nationality:egyptian
+6. Food:cherry and Transport:tram have the same parity positions
+7. Food:cauliflower and Nationality:indian have the same parity positions
+8. Nationality:egyptian and Food:cherry have the same parity positions

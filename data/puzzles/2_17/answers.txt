@@ -1,0 +1,4 @@
+|               |    1    |     2     |     3      |
+| Beverage      | 7up     | lemonade  | coffee     |
+| Nationality   | chinese | argentine | colombian  |
+| Pet           | lizard  | hamster   | guinea-pig |

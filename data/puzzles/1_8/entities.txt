@@ -1,0 +1,2 @@
+Sport: biathlon, rowing, sailing
+Transport: roller, skateboard, tram

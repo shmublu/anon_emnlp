@@ -1,0 +1,7 @@
+1. Sport:cricket is on the far left or far right
+2. Pet:snake is in an odd position
+3. Nationality:chinese is on the left or right of Nationality:polish
+4. Sport:weightlifting is somewhere to the right of Pet:hedgehog
+5. Nationality:chinese and Pet:snake have the same parity positions
+6. Sport:climbing is not to the left of Pet:snake
+7. Nationality:chinese == Pet:rabbit or Nationality:chinese == Sport:weightlifting or both

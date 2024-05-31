@@ -1,0 +1,6 @@
+1. Transport:snowmobile is in the middle
+2. Nationality:colombian == Job:social-worker
+3. Nationality:canadian is not to the left of Job:social-worker
+4. Job:musician != Transport:snowmobile
+5. Job:coach and Nationality:turkish have different parity positions
+6. Transport:bus is somewhere to the left of Nationality:canadian

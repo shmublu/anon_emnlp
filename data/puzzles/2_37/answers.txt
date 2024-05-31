@@ -1,0 +1,4 @@
+|         |     1     |     2     |    3    |
+| Food    | lime      | blueberry | avocado |
+| Job     | architect | teacher   | manager |
+| Sport   | swimming  | baseball  | cricket |

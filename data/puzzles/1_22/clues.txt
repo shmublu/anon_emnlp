@@ -1,0 +1,5 @@
+1. Music-Genre:soul is not to the right of Music-Genre:indie
+2. Music-Genre:reggae and Movie-Genre:action have the same parity positions
+3. Music-Genre:soul is not to the right of Movie-Genre:crime
+4. Movie-Genre:martial-arts is somewhere between Movie-Genre:crime and Movie-Genre:action
+5. Music-Genre:indie and Movie-Genre:crime have the same parity positions

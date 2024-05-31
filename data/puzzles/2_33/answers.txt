@@ -1,0 +1,4 @@
+|               |   1    |   2    |      3      |
+| Beverage      | milk   | juice  | almond-milk |
+| Food          | pepper | papaya | mango       |
+| Music-Genre   | reggae | r&b    | d&b         |

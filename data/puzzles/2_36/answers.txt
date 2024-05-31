@@ -1,0 +1,4 @@
+|             |     1      |    2     |     3     |
+| Hobby       | filmmaking | fishing  | baking    |
+| Pet         | hamster    | fish     | horse     |
+| Transport   | skateboard | airplane | motorbike |

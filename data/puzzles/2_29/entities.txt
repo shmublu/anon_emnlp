@@ -1,0 +1,3 @@
+Food: cauliflower, lettuce, onion
+Hobby: card-games, cooking, dancing
+Music-Genre: hip-hop, r&b, rock

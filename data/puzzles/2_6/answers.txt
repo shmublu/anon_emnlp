@@ -1,0 +1,4 @@
+|               |       1       |     2      |    3     |
+| Job           | social-worker | coach      | musician |
+| Nationality   | colombian     | canadian   | turkish  |
+| Transport     | bus           | snowmobile | ship     |

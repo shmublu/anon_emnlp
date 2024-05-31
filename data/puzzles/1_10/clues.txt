@@ -1,0 +1,5 @@
+1. Pet:lizard is in an odd position
+2. Pet:frog is not to the right of Pet:goat
+3. Pet:lizard is not to the left of Pet:frog
+4. Pet:goat is not to the left of Food:apricot
+5. Pet:frog is on the left or right of Food:peas

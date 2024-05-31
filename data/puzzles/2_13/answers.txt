@@ -1,0 +1,4 @@
+|               |     1     |      2       |    3     |
+| Beverage      | milk      | fanta        | mirinda  |
+| Nationality   | brazilian | australian   | turkish  |
+| Sport         | parkour   | snowboarding | handball |

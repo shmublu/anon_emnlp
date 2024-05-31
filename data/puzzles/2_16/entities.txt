@@ -1,0 +1,3 @@
+Hobby: drawing, gardening, traveling
+Movie-Genre: adventure, superhero, time-travel
+Pet: guinea-pig, snake, turtle

@@ -1,0 +1,3 @@
+Food: avocado, blueberry, lime
+Job: architect, manager, teacher
+Sport: baseball, cricket, swimming

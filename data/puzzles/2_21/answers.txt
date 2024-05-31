@@ -1,0 +1,4 @@
+|             |      1      |      2      |      3      |
+| Beverage    | tea         | almond-milk | milk        |
+| Hobby       | photography | collecting  | video-games |
+| Transport   | van         | bus         | ship        |

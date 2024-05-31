@@ -1,0 +1,4 @@
+|               |      1      |     2      |    3    |
+| Food          | cauliflower | lettuce    | onion   |
+| Hobby         | cooking     | card-games | dancing |
+| Music-Genre   | rock        | r&b        | hip-hop |

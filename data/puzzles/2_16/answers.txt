@@ -1,0 +1,4 @@
+|               |      1      |     2      |     3     |
+| Hobby         | traveling   | gardening  | drawing   |
+| Movie-Genre   | time-travel | adventure  | superhero |
+| Pet           | snake       | guinea-pig | turtle    |

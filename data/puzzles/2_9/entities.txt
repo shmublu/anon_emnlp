@@ -1,0 +1,3 @@
+Beverage: coffee, cola, tea
+Hobby: drawing, hiking, skydiving
+Music-Genre: jazz, r&b, techno

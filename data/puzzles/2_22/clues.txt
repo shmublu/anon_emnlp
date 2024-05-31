@@ -1,0 +1,8 @@
+1. Beverage:coffee is not to the left of Transport:helicopter
+2. Transport:car and Beverage:soy-milk have the same parity positions
+3. Transport:helicopter is on the far left or far right
+4. Beverage:juice and Transport:helicopter have different parity positions
+5. Job:analyst is somewhere to the right of Job:manager
+6. Job:analyst != Beverage:juice
+7. Job:manager is in an odd position
+8. Transport:van is not to the right of Transport:helicopter

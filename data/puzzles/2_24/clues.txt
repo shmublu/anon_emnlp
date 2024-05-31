@@ -1,0 +1,7 @@
+1. Food:blueberry == Music-Genre:blues or Music-Genre:blues == Transport:skateboard or both
+2. Music-Genre:trance is not to the left of Transport:bus
+3. Food:lemon and Transport:jet-ski have different parity positions
+4. Transport:jet-ski is somewhere to the right of Transport:skateboard
+5. Music-Genre:trance == Food:lemon or Food:lemon == Transport:jet-ski or both
+6. Music-Genre:trance is somewhere to the left of Music-Genre:disco
+7. Music-Genre:blues is not to the left of Transport:bus

@@ -1,0 +1,4 @@
+|               |     1      |    2    |      3      |
+| Food          | pineapple  | onion   | cucumber    |
+| Job           | freelancer | lawyer  | coach       |
+| Movie-Genre   | western    | musical | time-travel |

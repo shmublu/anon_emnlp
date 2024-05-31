@@ -1,0 +1,3 @@
+Job: coach, musician, social-worker
+Nationality: canadian, colombian, turkish
+Transport: bus, ship, snowmobile

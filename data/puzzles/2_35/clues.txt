@@ -1,0 +1,7 @@
+1. Food:eggplant and Movie-Genre:thriller have different parity positions
+2. Food:eggplant is somewhere between Food:plum and Food:blueberry
+3. Movie-Genre:thriller is not to the right of Food:plum
+4. Sport:baseball and Food:blueberry have different parity positions
+5. Movie-Genre:thriller is not to the left of Movie-Genre:adventure
+6. Movie-Genre:sports and Sport:cycling have the same parity positions
+7. Sport:cycling is not to the left of Movie-Genre:thriller

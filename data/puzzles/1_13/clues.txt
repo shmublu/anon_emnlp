@@ -1,0 +1,5 @@
+1. Beverage:hot-chocolate is not to the left of Hobby:traveling
+2. Beverage:milk is on the left or right of Beverage:sprite
+3. Hobby:traveling != Beverage:sprite
+4. Hobby:traveling is in an even position
+5. Hobby:traveling is somewhere to the left of Hobby:video-games

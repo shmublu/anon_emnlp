@@ -1,0 +1,7 @@
+1. Food:zucchini is somewhere to the left of Job:journalist
+2. Job:journalist is on the left or right of Hobby:board-games
+3. Food:pumpkin is somewhere to the right of Job:musician
+4. Job:musician is not to the right of Food:zucchini
+5. Job:journalist == Food:zucchini or Job:journalist == Hobby:traveling or both
+6. Job:musician is on the left or right of Job:dancer
+7. Job:dancer is on the far left or far right

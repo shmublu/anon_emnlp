@@ -1,0 +1,3 @@
+Beverage: almond-milk, milk, tea
+Hobby: collecting, photography, video-games
+Transport: bus, ship, van

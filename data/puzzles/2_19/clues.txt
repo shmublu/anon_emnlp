@@ -1,0 +1,8 @@
+1. Pet:snake is not to the left of Pet:pony
+2. Movie-Genre:adventure != Transport:bus
+3. Transport:helicopter is on the left or right of Movie-Genre:spy
+4. Movie-Genre:spy is not to the right of Pet:frog
+5. Pet:frog is on the left or right of Movie-Genre:spy
+6. Transport:helicopter is not to the right of Pet:snake
+7. Transport:helicopter is on the far left or far right
+8. Movie-Genre:adventure == Pet:frog or Transport:boat == Movie-Genre:adventure or both

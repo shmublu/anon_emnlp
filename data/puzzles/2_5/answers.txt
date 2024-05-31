@@ -1,0 +1,4 @@
+|               |    1     |    2     |     3     |
+| Job           | mechanic | pilot    | coach     |
+| Nationality   | nigerian | chinese  | pakistani |
+| Pet           | rabbit   | hedgehog | rat       |

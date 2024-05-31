@@ -1,0 +1,7 @@
+1. Sport:badminton is on the right of Sport:skiing
+2. Hobby:writing is on the left or right of Nationality:american
+3. Nationality:egyptian is in an odd position
+4. Hobby:writing != Nationality:egyptian or Sport:skiing != Hobby:writing or both
+5. Nationality:egyptian is on the left of Nationality:american
+6. Sport:handball is not to the left of Hobby:hiking
+7. Sport:handball is not to the right of Hobby:woodworking

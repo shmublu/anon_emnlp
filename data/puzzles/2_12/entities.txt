@@ -1,0 +1,3 @@
+Hobby: cooking, reading, woodworking
+Job: chef, pilot, project-manager
+Transport: bike, motorbike, trike

@@ -1,0 +1,4 @@
+|         |   1    |       2       |     3     |
+| Food    | pepper | corn          | lemon     |
+| Hobby   | hiking | camping       | drawing   |
+| Job     | coach  | social-worker | scientist |

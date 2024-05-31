@@ -1,0 +1,2 @@
+Sport: badminton, handball, skiing
+Transport: roller, scooter, trike

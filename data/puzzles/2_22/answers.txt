@@ -1,0 +1,4 @@
+|             |    1     |   2    |     3      |
+| Beverage    | soy-milk | juice  | coffee     |
+| Job         | manager  | lawyer | analyst    |
+| Transport   | car      | van    | helicopter |

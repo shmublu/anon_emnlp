@@ -1,0 +1,3 @@
+Food: corn, pepper, tomato
+Movie-Genre: action, adventure, time-travel
+Sport: badminton, golf, snowboarding

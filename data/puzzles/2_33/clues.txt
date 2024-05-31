@@ -1,0 +1,7 @@
+1. Beverage:juice and Food:papaya have the same parity positions
+2. Beverage:milk and Music-Genre:r&b have different parity positions
+3. Music-Genre:reggae is not to the right of Music-Genre:r&b
+4. Music-Genre:r&b is somewhere between Music-Genre:d&b and Music-Genre:reggae
+5. Food:pepper is not to the right of Music-Genre:reggae
+6. Beverage:milk is not to the right of Music-Genre:r&b
+7. Beverage:juice is not to the right of Music-Genre:r&b

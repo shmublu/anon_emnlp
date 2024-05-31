@@ -1,0 +1,3 @@
+Food: pomegranate, pumpkin, zucchini
+Hobby: board-games, card-games, traveling
+Job: dancer, journalist, musician

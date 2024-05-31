@@ -1,0 +1,3 @@
+Beverage: cola, lemonade, soy-milk
+Music-Genre: ambient, folk, rock
+Nationality: italian, spanish, thai

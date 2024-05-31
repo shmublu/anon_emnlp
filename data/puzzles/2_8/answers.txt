@@ -1,0 +1,4 @@
+|               |      1      |      2       |    3    |
+| Food          | pomegranate | papaya       | onion   |
+| Hobby         | writing     | magic-tricks | chess   |
+| Movie-Genre   | romance     | mystery      | fantasy |

@@ -1,0 +1,7 @@
+1. Transport:skateboard and Job:musician have different parity positions
+2. Transport:car is in an odd position
+3. Music-Genre:classical and Transport:skateboard have the same parity positions
+4. Transport:motorbike and Job:dancer have the same parity positions
+5. Music-Genre:gospel != Transport:motorbike
+6. Transport:motorbike is not to the left of Transport:car
+7. Job:software-developer is not to the left of Job:musician

@@ -1,0 +1,4 @@
+1. Transport:roller is not to the left of Sport:rowing
+2. Sport:biathlon and Transport:skateboard have the same parity positions
+3. Sport:biathlon is on the right of Sport:rowing
+4. Transport:tram is somewhere between Transport:roller and Transport:skateboard

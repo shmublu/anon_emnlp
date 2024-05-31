@@ -1,0 +1,2 @@
+Beverage: coffee, iced-tea, soy-milk
+Food: artichoke, kiwi, strawberry

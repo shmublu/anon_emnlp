@@ -1,0 +1,3 @@
+Beverage: 7up, coffee, lemonade
+Nationality: argentine, chinese, colombian
+Pet: guinea-pig, hamster, lizard

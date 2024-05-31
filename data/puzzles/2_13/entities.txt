@@ -1,0 +1,3 @@
+Beverage: fanta, milk, mirinda
+Nationality: australian, brazilian, turkish
+Sport: handball, parkour, snowboarding
